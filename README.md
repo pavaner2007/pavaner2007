@@ -18,7 +18,7 @@ I am a B.E. Computer Science and Engineering (AI & ML) student at Sri Eshwar Col
 
 *  **Currently Learning & Building:** Advanced generative AI models, Next.js for full-stack development, and sustainability tech, including an AI-controlled microbial culture system to convert plastic waste into soil nutrients.
 *  **Focus Areas:** Object-Oriented Programming, Data Structures & Algorithms, and Database Management[cite: 3].
-*  **Achievements:** Top 6 Finalist at the 2026 District Collectorate Hackathon in Chittoor[cite: 3].
+*  **Achievements:** Top 6 Finalist at the 2026 District Collectorate Hackathon in Chittoor.
 
 ---
 
