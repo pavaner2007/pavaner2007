@@ -61,6 +61,6 @@ I am a B.E. Computer Science and Engineering (AI & ML) student at Sri Eshwar Col
 </div>
 <br>
 
-*   **LeetCode:** Solved 55+ Problems | Global Rank - 2,311,804[cite: 3]
-*   **CodeChef:** Solved 55+ Problems[cite: 3]
-*   **Skill Rack:** Solved 620+ Problems | 178 Bronze[cite: 3]
+*   **LeetCode:** Solved 55+ Problems | Global Rank - 2,311,804
+*   **CodeChef:** Solved 55+ Problems
+*   **Skill Rack:** Solved 620+ Problems | 178 Bronze
