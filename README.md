@@ -97,7 +97,7 @@ OPEN_TO  : Full Stack Developer Intern / ML Engineer Intern roles
 ### `$ ls ./featured-projects`
 
 <details open>
-<summary><b>📚 Study Mate — AI-Powered Study Platform</b></summary>
+<summary><b> Study Mate — AI-Powered Study Platform</b></summary>
 <br/>
 
 Full-stack AI-powered educational platform combining collaborative note sharing with an intelligent, context-aware study assistant that answers questions from PDFs, websites, and YouTube transcripts.
