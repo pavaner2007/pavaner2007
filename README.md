@@ -228,26 +228,6 @@ AI-powered repository analysis platform that scans GitHub repositories, detects 
 <img src="https://raw.githubusercontent.com/pavaner2007/pavaner2007/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
-<br/>
-
-### `$ cat current_focus.yaml`
-
-```yaml
-learning:
-  - Advanced DSA & System Design
-  - Deeper LLM / RAG architectures
-building:
-  - Study Mate (AI study platform)
-  - AutoQA Agent (repo intelligence)
-exploring:
-  - Agentic AI workflows
-open_to:
-  - Full Stack Developer Intern
-  - Machine Learning Engineer Intern
-```
-
-<br/>
-
 ### `$ connect --with-me`
 
 <div align="center">
