@@ -139,7 +139,7 @@ AI-powered repository analysis platform that scans GitHub repositories, detects 
 
 | Achievement | Year |
 |:---:|:---:|
-| 🏆 Top 10 — Unsaid Talks GenAI Challenge | 2025 |
+| 🏆 Top 10 of 386 Teams — Unsaid Talks GenAI Challenge | 2025 |
 | 🏆 Top 6 Finalist — Hackathon, District Collectorate of Chittoor | 2026 |
 
 </div>
