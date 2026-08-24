@@ -1,26 +1,26 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0D1117,100:00FF41&height=200&section=header&text=PAVAN%20E%20R&fontSize=55&fontColor=00FF41&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%7C%20ML%20Engineer%20%7C%7C%20B.E.%20CSE(AIML)&descAlignY=60&descColor=C9D1D9&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0D1117,100:9D4EDD&height=200&section=header&text=PAVAN%20E%20R&fontSize=55&fontColor=D9B8FF&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%7C%20ML%20Engineer%20%7C%7C%20B.E.%20CSE(AIML)&descAlignY=60&descColor=C9D1D9&animation=fadeIn" width="100%"/>
 
 <a href="https://github.com/pavaner2007">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duetone=00FF41&center=true&vCenter=true&width=650&height=110&background=00000000&lines=root%40pavan%3A~%24+whoami;>+B.E.+CSE(AIML)+Student+%40+Sri+Eshwar+College;>+Building+Study-Mate+%26+AutoQA+Agent;>+Stack%3A+React+%7C+Node.js+%7C+FastAPI+%7C+Python;>+Open+to+Full+Stack+%2F+ML+Engineer+roles_" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duetone=9D4EDD&center=true&vCenter=true&width=650&height=110&background=00000000&lines=root%40pavan%3A~%24+whoami;>+B.E.+CSE(AIML)+Student+%40+Sri+Eshwar+College;>+Building+Study-Mate+%26+AutoQA+Agent;>+Stack%3A+React+%7C+Node.js+%7C+FastAPI+%7C+Python;>+Open+to+Full+Stack+%2F+ML+Engineer+roles_" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![Degree](https://img.shields.io/badge/Degree-B.E._CSE(AIML)-0D1117?style=flat-square&labelColor=0D1117&color=00FF41)
-![University](https://img.shields.io/badge/University-Sri_Eshwar_College_of_Engineering-0D1117?style=flat-square&labelColor=0D1117&color=00FF41)
-![Status](https://img.shields.io/badge/Status-4th_Semester-0D1117?style=flat-square&labelColor=0D1117&color=00FF41)
+![Degree](https://img.shields.io/badge/Degree-B.E._CSE(AIML)-0D1117?style=flat-square&labelColor=0D1117&color=6A0DAD)
+![University](https://img.shields.io/badge/University-Sri_Eshwar_College_of_Engineering-0D1117?style=flat-square&labelColor=0D1117&color=6A0DAD)
+![Status](https://img.shields.io/badge/Status-4th_Semester-0D1117?style=flat-square&labelColor=0D1117&color=6A0DAD)
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF41&label=&labelColor=0D1117)](https://www.linkedin.com/in/pavan-e-r-969616327/)
-[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF41&label=&labelColor=0D1117)](mailto:eethamukkalaramadaspavan.2024aiml@sece.ac.in)
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF41&label=&labelColor=0D1117)](https://github.com/pavaner2007)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=BB86FC&label=&labelColor=0D1117)](https://www.linkedin.com/in/pavan-e-r-969616327/)
+[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=BB86FC&label=&labelColor=0D1117)](mailto:eethamukkalaramadaspavan.2024aiml@sece.ac.in)
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=BB86FC&label=&labelColor=0D1117)](https://github.com/pavaner2007)
 
-![Profile Views](https://komarev.com/ghpvc/?username=pavaner2007&color=00FF41&style=flat-square&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/pavaner2007?style=flat-square&color=00FF41&labelColor=0D1117&label=FOLLOWERS)
-![Stars](https://img.shields.io/github/stars/pavaner2007?style=flat-square&color=00FF41&labelColor=0D1117&label=STARS)
+![Profile Views](https://komarev.com/ghpvc/?username=pavaner2007&color=6A0DAD&style=flat-square&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/pavaner2007?style=flat-square&color=6A0DAD&labelColor=0D1117&label=FOLLOWERS)
+![Stars](https://img.shields.io/github/stars/pavaner2007?style=flat-square&color=6A0DAD&labelColor=0D1117&label=STARS)
 
 </div>
 
@@ -68,10 +68,10 @@ OPEN_TO  : Full Stack Developer Intern / ML Engineer Intern roles
 
 <div align="center">
 
-![AI/ML](https://img.shields.io/badge/AI%2FML-0D1117?style=for-the-badge&logo=tensorflow&logoColor=00FF41&labelColor=0D1117)
-![Full Stack](https://img.shields.io/badge/Full%20Stack%20Dev-0D1117?style=for-the-badge&logo=react&logoColor=00FF41&labelColor=0D1117)
-![Automation Tooling](https://img.shields.io/badge/Automation%20Tooling-0D1117?style=for-the-badge&logo=githubactions&logoColor=00FF41&labelColor=0D1117)
-![LLM Integration](https://img.shields.io/badge/LLM%20Integration-0D1117?style=for-the-badge&logo=openai&logoColor=00FF41&labelColor=0D1117)
+![AI/ML](https://img.shields.io/badge/AI%2FML-0D1117?style=for-the-badge&logo=tensorflow&logoColor=BB86FC&labelColor=0D1117)
+![Full Stack](https://img.shields.io/badge/Full%20Stack%20Dev-0D1117?style=for-the-badge&logo=react&logoColor=BB86FC&labelColor=0D1117)
+![Automation Tooling](https://img.shields.io/badge/Automation%20Tooling-0D1117?style=for-the-badge&logo=githubactions&logoColor=BB86FC&labelColor=0D1117)
+![LLM Integration](https://img.shields.io/badge/LLM%20Integration-0D1117?style=for-the-badge&logo=openai&logoColor=BB86FC&labelColor=0D1117)
 
 </div>
 
@@ -150,15 +150,15 @@ AI-powered repository analysis platform that scans GitHub repositories, detects 
 
 <div align="center">
 
-![Sri Eshwar](https://img.shields.io/badge/B.E._CSE(AIML)-Sri_Eshwar_College_of_Engineering-0D1117?style=for-the-badge&logo=googlescholar&logoColor=00FF41&labelColor=0D1117)
-![CGPA](https://img.shields.io/badge/CGPA-7.8_(4th_Sem)-0D1117?style=for-the-badge&labelColor=0D1117&color=00FF41)
+![Sri Eshwar](https://img.shields.io/badge/B.E._CSE(AIML)-Sri_Eshwar_College_of_Engineering-0D1117?style=for-the-badge&logo=googlescholar&logoColor=BB86FC&labelColor=0D1117)
+![CGPA](https://img.shields.io/badge/CGPA-7.8_(4th_Sem)-0D1117?style=for-the-badge&labelColor=0D1117&color=6A0DAD)
 
 **Certifications**
 
-![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-Udemy_2025-0D1117?style=flat-square&labelColor=0D1117&color=00FF41)
-![Java](https://img.shields.io/badge/Programming_in_Java-NPTEL_2025-0D1117?style=flat-square&labelColor=0D1117&color=00FF41)
-![Salesforce](https://img.shields.io/badge/Agentforce_Specialist-Salesforce_2025-0D1117?style=flat-square&labelColor=0D1117&color=00FF41)
-![Design Thinking](https://img.shields.io/badge/Design_Thinking_–_A_Primer-NPTEL_2026-0D1117?style=flat-square&labelColor=0D1117&color=00FF41)
+![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-Udemy_2025-0D1117?style=flat-square&labelColor=0D1117&color=6A0DAD)
+![Java](https://img.shields.io/badge/Programming_in_Java-NPTEL_2025-0D1117?style=flat-square&labelColor=0D1117&color=6A0DAD)
+![Salesforce](https://img.shields.io/badge/Agentforce_Specialist-Salesforce_2025-0D1117?style=flat-square&labelColor=0D1117&color=6A0DAD)
+![Design Thinking](https://img.shields.io/badge/Design_Thinking_–_A_Primer-NPTEL_2026-0D1117?style=flat-square&labelColor=0D1117&color=6A0DAD)
 
 </div>
 
@@ -168,9 +168,9 @@ AI-powered repository analysis platform that scans GitHub repositories, detects 
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-83%2B_Solved-0D1117?style=for-the-badge&logo=leetcode&logoColor=00FF41&labelColor=0D1117)](EDIT_ME_LEETCODE_PROFILE_URL)
-[![CodeChef](https://img.shields.io/badge/CodeChef-55%2B_Solved-0D1117?style=for-the-badge&logo=codechef&logoColor=00FF41&labelColor=0D1117)](EDIT_ME_CODECHEF_PROFILE_URL)
-[![SkillRack](https://img.shields.io/badge/Skill_Rack-700%2B_Solved-0D1117?style=for-the-badge&labelColor=0D1117&color=00FF41)](EDIT_ME_SKILLRACK_PROFILE_URL)
+[![LeetCode](https://img.shields.io/badge/LeetCode-83%2B_Solved-0D1117?style=for-the-badge&logo=leetcode&logoColor=BB86FC&labelColor=0D1117)](EDIT_ME_LEETCODE_PROFILE_URL)
+[![CodeChef](https://img.shields.io/badge/CodeChef-55%2B_Solved-0D1117?style=for-the-badge&logo=codechef&logoColor=BB86FC&labelColor=0D1117)](EDIT_ME_CODECHEF_PROFILE_URL)
+[![SkillRack](https://img.shields.io/badge/Skill_Rack-700%2B_Solved-0D1117?style=for-the-badge&labelColor=0D1117&color=6A0DAD)](EDIT_ME_SKILLRACK_PROFILE_URL)
 
 *LeetCode Global Rank: 1,887,496 · Skill Rack: 178 Bronze, 2 Certificates*
 
@@ -182,10 +182,10 @@ AI-powered repository analysis platform that scans GitHub repositories, detects 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=pavaner2007&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pavaner2007&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=pavaner2007&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=BB86FC&icon_color=BB86FC&text_color=C9D1D9" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pavaner2007&theme=dark&hide_border=true&background=0D1117&ring=BB86FC&fire=BB86FC&currStreakLabel=BB86FC" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavaner2007&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavaner2007&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=BB86FC&text_color=C9D1D9" width="48%"/>
 
 </div>
 
@@ -195,7 +195,7 @@ AI-powered repository analysis platform that scans GitHub repositories, detects 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=pavaner2007&theme=darkhub&no-frame=true&no-bg=false&margin-w=8&margin-h=8&column=7" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=pavaner2007&theme=algolia&no-frame=true&no-bg=false&margin-w=8&margin-h=8&column=7" width="100%"/>
 
 </div>
 
@@ -205,7 +205,7 @@ AI-powered repository analysis platform that scans GitHub repositories, detects 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pavaner2007&bg_color=0D1117&color=00FF41&line=00FF41&point=C9D1D9&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pavaner2007&bg_color=0D1117&color=BB86FC&line=BB86FC&point=C9D1D9&area=true&hide_border=true" width="100%"/>
 
 </div>
 
@@ -233,14 +233,14 @@ AI-powered repository analysis platform that scans GitHub repositories, detects 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=0D1117)](https://www.linkedin.com/in/pavan-e-r-969616327/)
-[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=0D1117)](mailto:eethamukkalaramadaspavan.2024aiml@sece.ac.in)
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=0D1117)](https://github.com/pavaner2007)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=BB86FC&labelColor=0D1117)](https://www.linkedin.com/in/pavan-e-r-969616327/)
+[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=BB86FC&labelColor=0D1117)](mailto:eethamukkalaramadaspavan.2024aiml@sece.ac.in)
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=BB86FC&labelColor=0D1117)](https://github.com/pavaner2007)
 
 <br/>
 
 *"Code is the closest thing we have to magic — write it like you mean it."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FF41&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:9D4EDD&height=120&section=footer" width="100%"/>
 
 </div>
