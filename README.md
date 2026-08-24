@@ -10,7 +10,7 @@
 
 ![Degree](https://img.shields.io/badge/Degree-B.E._CSE(AIML)-0D1117?style=flat-square&labelColor=0D1117&color=6A0DAD)
 ![University](https://img.shields.io/badge/University-Sri_Eshwar_College_of_Engineering-0D1117?style=flat-square&labelColor=0D1117&color=6A0DAD)
-![Status](https://img.shields.io/badge/Status-4th_Semester-0D1117?style=flat-square&labelColor=0D1117&color=6A0DAD)
+![Status](https://img.shields.io/badge/Status-5th_Semester-0D1117?style=flat-square&labelColor=0D1117&color=6A0DAD)
 
 <br/>
 
