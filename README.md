@@ -195,7 +195,7 @@ AI-powered repository analysis platform that scans GitHub repositories, detects 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=pavaner2007&theme=algolia&no-frame=true&no-bg=false&margin-w=8&margin-h=8&column=7" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=pavaner2007&theme=darkhub&no-frame=true&column=7" width="100%"/>
 
 </div>
 
@@ -205,7 +205,7 @@ AI-powered repository analysis platform that scans GitHub repositories, detects 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pavaner2007&bg_color=0D1117&color=BB86FC&line=BB86FC&point=C9D1D9&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pavaner2007&bg_color=0D1117&color=9D4EDD&line=9D4EDD&point=C9D1D9&area=true&hide_border=true" width="100%"/>
 
 </div>
 
@@ -215,11 +215,8 @@ AI-powered repository analysis platform that scans GitHub repositories, detects 
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details.svg?username=pavaner2007&theme=github_dark" width="100%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language.svg?username=pavaner2007&theme=github_dark" width="48%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language.svg?username=pavaner2007&theme=github_dark" width="48%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats.svg?username=pavaner2007&theme=github_dark" width="48%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time.svg?username=pavaner2007&theme=github_dark&utcOffset=5.5" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=pavaner2007&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=9D4EDD&text_color=C9D1D9" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pavaner2007&theme=dark&hide_border=true&background=0D1117&ring=9D4EDD&fire=9D4EDD&currStreakLabel=9D4EDD" width="48%"/>
 
 </div>
 
