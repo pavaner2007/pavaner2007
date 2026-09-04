@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0D1117,100:9D4EDD&height=200&section=header&text=PAVAN%20E%20R&fontSize=55&fontColor=D9B8FF&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%7C%20ML%20Engineer%20%7C%7C%20B.E.%20CSE(AIML)&descAlignY=60&descColor=C9D1D9&animation=fadeIn" width="100%"/>
 
 <a href="https://github.com/pavaner2007">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duetone=9D4EDD&center=true&vCenter=true&width=650&height=110&background=00000000&lines=root%40pavan%3A~%24+whoami;>+B.E.+CSE(AIML)+Student+%40+Sri+Eshwar+College;>+Building+Study-Mate+%26+AutoQA+Agent;>+Stack%3A+React+%7C+Node.js+%7C+FastAPI+%7C+Python;>+Open+to+Full+Stack+%2F+ML+Engineer+roles_" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duetone=9D4EDD&center=true&vCenter=true&width=650&height=110&background=00000000&lines=root%40pavan%3A~%24+whoami;>+B.E.+CSE(AIML)+Student+%40+Sri+Eshwar+College;>+Stack%3A+React+%7C+Node.js+%7C+FastAPI+%7C+Python;>+Open+to+Full+Stack+%2F+ML+Engineer+roles_" alt="Typing SVG" />
 </a>
 
 <br/>
