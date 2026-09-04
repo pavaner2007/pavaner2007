@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0D1117,100:9D4EDD&height=200&section=header&text=PAVAN%20E%20R&fontSize=55&fontColor=D9B8FF&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%7C%20ML%20Engineer%20%7C%7C%20B.E.%20CSE(AIML)&descAlignY=60&descColor=C9D1D9&animation=fadeIn" width="100%"/>
 
 <a href="https://github.com/pavaner2007">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duetone=9D4EDD&center=true&vCenter=true&width=650&height=110&background=00000000&lines=root%40pavan%3A~%24+whoami;>+B.E.+CSE(AIML)+Student+%40+Sri+Eshwar+College;>+Stack%3A+React+%7C+Node.js+%7C+FastAPI+%7C+Python;>+Open+to+Full+Stack+%2F+ML+Engineer+roles_" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duetone=9D4EDD&center=true&vCenter=true&width=650&height=110&background=00000000&lines=root%40pavan%3A~%24+whoami;>+B.E.+CSE(AIML)+Student+%40+Sri+Eshwar+College;>+Stack%3A+React+%7C+Node.js+%7C+FastAPI+%7C+Python;>+Open+to+Full+Stack+%2F+ML+Engineer+roles_" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -31,11 +31,11 @@
 Aspiring Full Stack Developer and Machine Learning Engineer currently pursuing a B.E. in CSE (AI/ML) at Sri Eshwar College of Engineering. I build scalable web platforms and AI-powered tools — from collaborative study platforms with context-aware chatbots to automated repository intelligence systems. Always learning, always shipping.
 
 ```bash
-ROLE     : Full Stack Developer / ML Engineer (Aspiring)
-EXP      : Student — B.E. CSE(AIML), 2024–2028
-DOMAIN   : AI/ML, Full-Stack Web Development
-STACK    : React, Node.js, MongoDB, FastAPI, PostgreSQL, Python, Java
-OPEN_TO  : Full Stack Developer Intern / ML Engineer Intern roles
+ROLE     : Full Stack Developer / ML Engineer (Aspiring)
+EXP      : Student — B.E. CSE(AIML), 2024–2028
+DOMAIN   : AI/ML, Full-Stack Web Development
+STACK    : React, Node.js, MongoDB, FastAPI, PostgreSQL, Python, Java
+OPEN_TO  : Full Stack Developer Intern / ML Engineer Intern roles
 ```
 
 <br/>
@@ -195,7 +195,7 @@ AI-powered repository analysis platform that scans GitHub repositories, detects 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=pavaner2007&theme=darkhub&no-frame=true&column=7" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=pavaner2007&theme=algolia&no-frame=true&no-bg=false&margin-w=8&margin-h=8&column=7" width="100%"/>
 
 </div>
 
@@ -205,7 +205,7 @@ AI-powered repository analysis platform that scans GitHub repositories, detects 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pavaner2007&bg_color=0D1117&color=9D4EDD&line=9D4EDD&point=C9D1D9&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pavaner2007&bg_color=0D1117&color=BB86FC&line=BB86FC&point=C9D1D9&area=true&hide_border=true" width="100%"/>
 
 </div>
 
@@ -215,8 +215,11 @@ AI-powered repository analysis platform that scans GitHub repositories, detects 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=pavaner2007&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=9D4EDD&text_color=C9D1D9" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pavaner2007&theme=dark&hide_border=true&background=0D1117&ring=9D4EDD&fire=9D4EDD&currStreakLabel=9D4EDD" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details.svg?username=pavaner2007&theme=github_dark" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language.svg?username=pavaner2007&theme=github_dark" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language.svg?username=pavaner2007&theme=github_dark" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats.svg?username=pavaner2007&theme=github_dark" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time.svg?username=pavaner2007&theme=github_dark&utcOffset=5.5" width="48%"/>
 
 </div>
 
