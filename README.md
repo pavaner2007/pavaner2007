@@ -172,7 +172,7 @@ AI-powered repository analysis platform that scans GitHub repositories, detects 
 [![CodeChef](https://img.shields.io/badge/CodeChef-55%2B_Solved-0D1117?style=for-the-badge&logo=codechef&logoColor=BB86FC&labelColor=0D1117)](EDIT_ME_CODECHEF_PROFILE_URL)
 [![SkillRack](https://img.shields.io/badge/Skill_Rack-700%2B_Solved-0D1117?style=for-the-badge&labelColor=0D1117&color=6A0DAD)](EDIT_ME_SKILLRACK_PROFILE_URL)
 
-*LeetCode Global Rank: 1,887,496 · Skill Rack: 178 Bronze, 2 Certificates*
+*LeetCode Global Rank: 1,872,615 · Skill Rack: 178 Bronze, 2 Certificates*
 
 </div>
 
