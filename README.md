@@ -20,7 +20,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=pavaner2007&color=6A0DAD&style=flat-square&label=PROFILE+VIEWS)
 ![Followers](https://img.shields.io/github/followers/pavaner2007?style=flat-square&color=6A0DAD&labelColor=0D1117&label=FOLLOWERS)
-![Stars](https://img.shields.io/github/stars/pavaner2007?style=flat-square&color=6A0DAD&labelColor=0D1117&label=STARS)
 
 </div>
 
